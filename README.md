@@ -14,7 +14,7 @@ To use or contribute to this project, follow these steps:
 Clone the repository:
 
 
-git clone https://github.com/your-username/diabetes-prediction-aiml.git
+git clone: https://github.com/druhithad/Aiml-with-data-science-_diabetes-prediction
 Navigate to the project directory:
 
 
@@ -67,7 +67,7 @@ Fork this repository.
 
 Clone your fork:
 
-git clone https://github.com/your-username/diabetes-prediction-aiml.git
+git clone :https://github.com/druhithad/Aiml-with-data-science-_diabetes-prediction
 Create a new branch for your feature or bug fix.
 
 Make your changes.
